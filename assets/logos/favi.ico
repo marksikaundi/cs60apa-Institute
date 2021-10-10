@@ -1,0 +1,26 @@
+<svg id="Component_7_1" data-name="Component 7 – 1" xmlns="http://www.w3.org/2000/svg" width="188.295" height="209.69" viewBox="0 0 188.295 209.69">
+  <g id="Component_6_1" data-name="Component 6 – 1" transform="translate(0 77.395) rotate(-32)">
+    <line id="Line_10" data-name="Line 10" y1="94" x2="6" transform="translate(25.5 47.5)" fill="none" stroke="#f37f19" stroke-width="8"/>
+    <g id="Ellipse_8" data-name="Ellipse 8" fill="#f37f19" stroke="#f37f19" stroke-width="1">
+      <ellipse cx="29.5" cy="28" rx="29.5" ry="28" stroke="none"/>
+      <ellipse cx="29.5" cy="28" rx="29" ry="27.5" fill="none"/>
+    </g>
+    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(7 115)" fill="#f37f19" stroke="#f37f19" stroke-width="1">
+      <ellipse cx="19.5" cy="20.5" rx="19.5" ry="20.5" stroke="none"/>
+      <ellipse cx="19.5" cy="20.5" rx="19" ry="20" fill="none"/>
+    </g>
+  </g>
+  <g id="Component_5_1" data-name="Component 5 – 1" transform="translate(127.006 145.709) rotate(-153)">
+    <g id="Group_2" data-name="Group 2">
+      <line id="Line_9" data-name="Line 9" x1="5" y2="101.5" transform="translate(22.5 28.5)" fill="none" stroke="#f37f19" stroke-width="8"/>
+      <g id="Ellipse_10" data-name="Ellipse 10" fill="#f37f19" stroke="#f37f19" stroke-width="1">
+        <circle cx="28" cy="28" r="28" stroke="none"/>
+        <circle cx="28" cy="28" r="27.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(3 98)" fill="#f37f19" stroke="#f37f19" stroke-width="1">
+      <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
+      <circle cx="18.5" cy="18.5" r="18" fill="none"/>
+    </g>
+  </g>
+</svg>

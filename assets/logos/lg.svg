@@ -1,0 +1,29 @@
+<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" width="243.403" height="100.161" viewBox="0 0 243.403 100.161">
+  <g id="Component_4_1" data-name="Component 4 – 1">
+    <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(0 39.966) rotate(-42)">
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(0 65)" fill="#f37f19" stroke="#f37f19" stroke-width="4">
+        <ellipse cx="7.5" cy="8" rx="7.5" ry="8" stroke="none"/>
+        <ellipse cx="7.5" cy="8" rx="5.5" ry="6" fill="none"/>
+      </g>
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1)" fill="#f37f19" stroke="#f37f19" stroke-width="4">
+        <ellipse cx="10" cy="10.5" rx="10" ry="10.5" stroke="none"/>
+        <ellipse cx="10" cy="10.5" rx="8" ry="8.5" fill="none"/>
+      </g>
+      <line id="Line_5" data-name="Line 5" x1="3" y2="58.5" transform="translate(7.5 14.5)" fill="none" stroke="#f37f19" stroke-width="3"/>
+    </g>
+    <g id="Component_2_1" data-name="Component 2 – 1" transform="matrix(-0.995, -0.105, 0.105, -0.995, 62.802, 68.828)">
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(3 51)" fill="#f37f19" stroke="#f37f19" stroke-width="4">
+        <ellipse cx="7.5" cy="8" rx="7.5" ry="8" stroke="none"/>
+        <ellipse cx="7.5" cy="8" rx="5.5" ry="6" fill="none"/>
+      </g>
+      <line id="Line_8" data-name="Line 8" y1="37" transform="translate(11 17)" fill="none" stroke="#f37f19" stroke-width="4"/>
+      <g id="Ellipse_6" data-name="Ellipse 6" fill="#f37f19" stroke="#f37f19" stroke-width="1">
+        <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+        <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <text id="CS60APA_" data-name="CS60APA " transform="translate(118.403 72.037)" stroke="#000" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-42.842" y="0">CS60APA </tspan></text>
+  <text id="institute" transform="translate(207.403 72.037)" stroke="#000" stroke-width="1" font-size="20" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-34.893" y="0">institute</tspan></text>
+  <text id="Easy_connect_learn" data-name="Easy connect  learn" transform="translate(123.806 91.037)" stroke="#000" stroke-width="1" font-size="13" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-53.888" y="0" xml:space="preserve">Easy connect  learn</tspan></text>
+</svg>
