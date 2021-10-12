@@ -1,26 +1,34 @@
-<svg id="Component_7_1" data-name="Component 7 – 1" xmlns="http://www.w3.org/2000/svg" width="188.295" height="209.69" viewBox="0 0 188.295 209.69">
-  <g id="Component_6_1" data-name="Component 6 – 1" transform="translate(0 77.395) rotate(-32)">
-    <line id="Line_10" data-name="Line 10" y1="94" x2="6" transform="translate(25.5 47.5)" fill="none" stroke="#f37f19" stroke-width="8"/>
-    <g id="Ellipse_8" data-name="Ellipse 8" fill="#f37f19" stroke="#f37f19" stroke-width="1">
-      <ellipse cx="29.5" cy="28" rx="29.5" ry="28" stroke="none"/>
-      <ellipse cx="29.5" cy="28" rx="29" ry="27.5" fill="none"/>
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="171.69" height="168.481" viewBox="0 0 171.69 168.481">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.377" y1="0.5" x2="0.829" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#630d7d"/>
+      <stop offset="1" stop-color="#32073f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.618" x2="0.532" y2="2.572" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#630d7d"/>
+      <stop offset="0.762" stop-color="#3e084e"/>
+      <stop offset="0.849" stop-color="#36233b"/>
+      <stop offset="1" stop-color="#32073f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-165.31 -172)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(213 172)" stroke="#630d7d" stroke-width="1" fill="url(#linear-gradient)">
+      <ellipse cx="62" cy="61" rx="62" ry="61" stroke="none"/>
+      <ellipse cx="62" cy="61" rx="61.5" ry="60.5" fill="none"/>
     </g>
-    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(7 115)" fill="#f37f19" stroke="#f37f19" stroke-width="1">
-      <ellipse cx="19.5" cy="20.5" rx="19.5" ry="20.5" stroke="none"/>
-      <ellipse cx="19.5" cy="20.5" rx="19" ry="20" fill="none"/>
-    </g>
+    <line id="Line_2" data-name="Line 2" x2="1" y2="116" transform="translate(251.5 175.5)" fill="none" stroke="#fff" stroke-width="5"/>
+    <line id="Line_3" data-name="Line 3" x1="1" y2="103" transform="translate(239.5 181.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(320 229)" fill="#fff"/>
   </g>
-  <g id="Component_5_1" data-name="Component 5 – 1" transform="translate(127.006 145.709) rotate(-153)">
-    <g id="Group_2" data-name="Group 2">
-      <line id="Line_9" data-name="Line 9" x1="5" y2="101.5" transform="translate(22.5 28.5)" fill="none" stroke="#f37f19" stroke-width="8"/>
-      <g id="Ellipse_10" data-name="Ellipse 10" fill="#f37f19" stroke="#f37f19" stroke-width="1">
-        <circle cx="28" cy="28" r="28" stroke="none"/>
-        <circle cx="28" cy="28" r="27.5" fill="none"/>
-      </g>
+  <g id="Group_2" data-name="Group 2" transform="translate(-203.333 -34.718) rotate(-41)">
+    <line id="Line_4" data-name="Line 4" x2="2" y2="79" transform="translate(105.5 242.5)" fill="none" stroke="#630d7d" stroke-width="4"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(86 211)" stroke="#630d7d" stroke-width="1" fill="url(#linear-gradient-2)">
+      <ellipse cx="19.5" cy="19" rx="19.5" ry="19" stroke="none"/>
+      <ellipse cx="19.5" cy="19" rx="19" ry="18.5" fill="none"/>
     </g>
-    <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(3 98)" fill="#f37f19" stroke="#f37f19" stroke-width="1">
-      <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
-      <circle cx="18.5" cy="18.5" r="18" fill="none"/>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(93 311)" fill="#630d7d" stroke="#630d7d" stroke-width="1">
+      <ellipse cx="15.5" cy="16.5" rx="15.5" ry="16.5" stroke="none"/>
+      <ellipse cx="15.5" cy="16.5" rx="15" ry="16" fill="none"/>
     </g>
   </g>
 </svg>

@@ -1,29 +1,43 @@
-<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" width="233.806" height="100.161" viewBox="0 0 233.806 100.161">
-  <g id="Component_4_1" data-name="Component 4 – 1">
-    <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(0 39.966) rotate(-42)">
-      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(0 65)" fill="#f37f19" stroke="#f37f19" stroke-width="4">
-        <ellipse cx="7.5" cy="8" rx="7.5" ry="8" stroke="none"/>
-        <ellipse cx="7.5" cy="8" rx="5.5" ry="6" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202.516" height="119.676" viewBox="0 0 202.516 119.676">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.377" y1="0.5" x2="0.829" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#630d7d"/>
+      <stop offset="1" stop-color="#32073f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.618" x2="0.532" y2="2.572" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#630d7d"/>
+      <stop offset="0.762" stop-color="#3e084e"/>
+      <stop offset="0.849" stop-color="#36233b"/>
+      <stop offset="1" stop-color="#32073f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(423.516 420.919)">
+    <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(-423.516 -420.919)">
+      <g id="Component_2_1" data-name="Component 2 – 1">
+        <g id="Group_1" data-name="Group 1" transform="translate(26.516)">
+          <g id="Ellipse_1" data-name="Ellipse 1" stroke="#630d7d" stroke-width="1" fill="url(#linear-gradient)">
+            <ellipse cx="39.5" cy="42.25" rx="39.5" ry="42.25" stroke="none"/>
+            <ellipse cx="39.5" cy="42.25" rx="39" ry="41.75" fill="none"/>
+          </g>
+          <path id="Path_1" data-name="Path 1" d="M0,0V84" transform="translate(26.5 0.5)" fill="none" stroke="#fff" stroke-width="5"/>
+          <line id="Line_3" data-name="Line 3" x1="1" y2="88.081" transform="translate(18.5 0.419)" fill="none" stroke="#fff" stroke-width="3"/>
+          <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(74 38.614)" fill="#fff"/>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="matrix(0.695, -0.719, 0.719, 0.695, -4.341, 53.717)">
+          <line id="Line_4" data-name="Line 4" x2="1.915" y2="52.367" transform="translate(12.099 22.176)" fill="none" stroke="#630d7d" stroke-width="4"/>
+          <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(-1 7)" stroke="#630d7d" stroke-width="1" fill="url(#linear-gradient-2)">
+            <ellipse cx="11.337" cy="11.5" rx="11.337" ry="11.5" stroke="none"/>
+            <ellipse cx="11.337" cy="11.5" rx="10.837" ry="11" fill="none"/>
+          </g>
+          <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(0.837 65.916)" fill="#630d7d" stroke="#630d7d" stroke-width="1">
+            <ellipse cx="13.5" cy="14" rx="13.5" ry="14" stroke="none"/>
+            <ellipse cx="13.5" cy="14" rx="13" ry="13.5" fill="none"/>
+          </g>
+        </g>
       </g>
-      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1)" fill="#f37f19" stroke="#f37f19" stroke-width="4">
-        <ellipse cx="10" cy="10.5" rx="10" ry="10.5" stroke="none"/>
-        <ellipse cx="10" cy="10.5" rx="8" ry="8.5" fill="none"/>
-      </g>
-      <line id="Line_5" data-name="Line 5" x1="3" y2="58.5" transform="translate(7.5 14.5)" fill="none" stroke="#f37f19" stroke-width="3"/>
-    </g>
-    <g id="Component_2_1" data-name="Component 2 – 1" transform="matrix(-0.995, -0.105, 0.105, -0.995, 62.802, 68.828)">
-      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(3 51)" fill="#f37f19" stroke="#f37f19" stroke-width="4">
-        <ellipse cx="7.5" cy="8" rx="7.5" ry="8" stroke="none"/>
-        <ellipse cx="7.5" cy="8" rx="5.5" ry="6" fill="none"/>
-      </g>
-      <line id="Line_8" data-name="Line 8" y1="37" transform="translate(11 17)" fill="none" stroke="#f37f19" stroke-width="4"/>
-      <g id="Ellipse_6" data-name="Ellipse 6" fill="#f37f19" stroke="#f37f19" stroke-width="1">
-        <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
-        <circle cx="10.5" cy="10.5" r="10" fill="none"/>
-      </g>
+      <text id="CS60APA" transform="translate(105.516 33.919)" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">CS60APA</tspan></text>
+      <text id="easy_connect_learn" data-name="easy connect learn" transform="translate(105.516 43.919)" font-size="12" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="0" y="0">easy connect learn</tspan></text>
+      <line id="Line_5" data-name="Line 5" y2="8" transform="translate(54.016 82.419)" fill="none" stroke="#630d7d" stroke-width="5"/>
     </g>
   </g>
-  <text id="CS60APA_" data-name="CS60APA " transform="translate(119.806 40.08)" stroke="#000" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-42.842" y="0">CS60APA </tspan></text>
-  <text id="institute" transform="translate(197.806 40.08)" stroke="#000" stroke-width="1" font-size="20" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-34.893" y="0">institute</tspan></text>
-  <text id="Easy_connect_learn" data-name="Easy connect  learn" transform="translate(123.806 55.08)" stroke="#000" stroke-width="1" font-size="13" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-53.888" y="0" xml:space="preserve">Easy connect  learn</tspan></text>
 </svg>
